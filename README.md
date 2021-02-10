@@ -5,6 +5,6 @@ Hope these help!
 
 **Difficulty Levels solved :**
 
- 🟢 Easy: 114  
- 🟡 Medium: 14 
- 🔴 Hard: 1
+🟢 Easy: 114  
+ 🟡 Medium: 14  
+ 🔴 Hard: 1 
